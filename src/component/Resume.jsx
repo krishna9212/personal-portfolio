@@ -1,5 +1,5 @@
 import React from "react";
-import ResumePDF from "./../assets/respdf.pdf";
+import ResumePDF from "./../assets/KRISHNA RAJPUT front end resume.pdf";
 
 function Resume() {
   return (
