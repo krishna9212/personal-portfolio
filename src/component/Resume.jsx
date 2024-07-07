@@ -1,5 +1,5 @@
 import React from "react";
-import ResumePDF from "./../assets/respdf.pdf";
+import ResumePDF from "./../assets/KRISHNA_RAJPUT_FRONT_END_RESUME_.INTERSHIP.pdf";
 
 function Resume() {
   return (
