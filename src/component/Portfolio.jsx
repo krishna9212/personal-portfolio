@@ -6,10 +6,18 @@ import web3 from "./../assets/website3.png";
 import web4 from "./../assets/website4.png";
 import web5 from "./../assets/website5.png";
 import web6 from "./../assets/website6.png";
+import web7 from "./../assets/website7.png";
+
 
 function Portfolio() {
   // Define an array of project data
   const projects = [
+
+    {
+      id: 0,
+      imageUrl: web7,
+      url: "https://uak-technologies.vercel.app/",
+    },
     {
       id: 1,
       imageUrl: web1,
@@ -28,7 +36,6 @@ function Portfolio() {
       imageUrl: web6,
       url: "https://react-password-generator-tan.vercel.app/",
     },
-
     // Add more projects as needed
   ];
 
