@@ -5,7 +5,8 @@ function About() {
   return (
     <div className="bg-background text-foreground p-8 text-white h-full w-full">
       <div className="spacer h-[10%] md:h-[5%] w-full text-transparent">.</div>
-      <div className="main-content h-[90%] md:h-[95%] w-full overflow-y-auto md:overflow-y-hidden">
+      <div className="main-content h-[90%] md:h-[95%] w-full overflow-y-auto ">
+{/*         md:overflow-y-hidden */}
         <h1 className="text-4xl font-extrabold mb-6">About Me</h1>
         <p className="mb-6 text-lg leading-relaxed max-w-3xl mx-auto">
           I am Krishna Rajput, a front-end developer based in New Delhi,
