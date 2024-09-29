@@ -16,7 +16,7 @@ function Portfolio() {
     {
       id: 0,
       imageUrl: web7,
-      url: "https://uak-technologies.vercel.app/",
+      url: "https://ukatechnology.com/",
     },
     {
       id: 1,
