@@ -7,6 +7,11 @@ import web4 from "./../assets/website4.png";
 import web5 from "./../assets/website5.png";
 import web6 from "./../assets/website6.png";
 import web7 from "./../assets/website7.png";
+import web8 from "./../assets/website7.png";
+import web9 from "./../assets/website7.png";
+import web10 from "./../assets/website7.png";
+import web11 from "./../assets/website7.png";
+import web12 from "./../assets/website7.png";
 
 
 function Portfolio() {
