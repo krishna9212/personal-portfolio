@@ -15,19 +15,49 @@ function Portfolio() {
 
     {
       id: 0,
+      imageUrl: web12,
+      url: "https://nios-ignou-sol.com/",
+    },
+
+    {
+      id: 1,
+      imageUrl: web11,
+      url: "https://teleogix.com/",
+    },
+    
+    {
+      id: 2,
+      imageUrl: web10,
+      url: "https://yeshaenterprises.com/",
+    },
+
+    {
+      id: 3,
+      imageUrl: web9,
+      url: "https://loan-karade.vercel.app/",
+    },
+
+    {
+      id: 4,
+      imageUrl: web8,
+      url: "https://otakucentre.com/",
+    },
+
+    {
+      id: 5,
       imageUrl: web7,
       url: "https://ukatechnology.com/",
     },
     {
-      id: 1,
+      id: 6,
       imageUrl: web1,
       url: "https://responsive-bookstore-tc-reimagine1.netlify.app/",
     },
-    { id: 2, imageUrl: web2, url: "https://chatappproject-psi.vercel.app/   " },
-    { id: 3, imageUrl: web3, url: "https://bmicalculator-lovat.vercel.app/" },
-    { id: 4, imageUrl: web4, url: "https://todo-lac-six.vercel.app/" },
+    { id: 7, imageUrl: web2, url: "https://chatappproject-psi.vercel.app/   " },
+    { id: 8, imageUrl: web3, url: "https://bmicalculator-lovat.vercel.app/" },
+    { id: 9, imageUrl: web4, url: "https://todo-lac-six.vercel.app/" },
     {
-      id: 5,
+      id: 9,
       imageUrl: web5,
       url: "https://currency-converter-app-five-tau.vercel.app/",
     },
